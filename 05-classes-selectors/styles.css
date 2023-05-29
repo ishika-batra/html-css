@@ -1,0 +1,53 @@
+/*  p.error { /*class
+  color: deeppink; 
+}  
+
+p.success {
+  color: rgb(65, 157, 62); 
+}
+
+p.success.feedback {
+  border: 2px dotted cornflowerblue;
+}
+
+#content { /*id
+  background-color: #ebebeb; 
+  padding: 20px;
+} */
+/*
+div .success {
+  /*descendant selector*
+  color: rgb(83, 132, 10);
+}*/
+
+/*a[href="https://github.com/ishika-batra"] {
+  /* attribute selector
+  background-color: aquamarine;
+  color: blueviolet;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+a[href*="youtube"] {
+  color: deepskyblue;
+  background-color: deeppink;
+  border: 20px deepskyblue;
+}*/
+
+div {
+  color: coral;
+  border: 1px dotted green;
+  margin: 40px;
+  font-weight: bold;
+}
+
+p {
+  border: inherit;
+  margin: inherit;
+  color: crimson;
+}
+
+p {
+  color: rgb(223, 52, 149);
+}
