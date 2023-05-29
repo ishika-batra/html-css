@@ -1,0 +1,14 @@
+span {
+  /*converting inline elements into block elements*/
+  display: block;
+  margin: 20px;
+  padding: 20px;
+}
+
+div {
+  /*converting block elements into inline elements*/
+  display: inline;
+  border: 2px solid crimson;
+  margin: 20px;
+  padding: 20px;
+}
