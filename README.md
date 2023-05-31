@@ -9,3 +9,8 @@ For more info about a specific topic, navigate to that topic's directory and che
 #### Contents
 
 1. [Introduction](/01-introduction/)
+2. [HTML Basics](/02-html-basics/)
+3. [HTMLForms](/03-html-forms/)
+4. [CSS Basics](/04-css-basics/)
+5. [Classes and Selectors](/05-classes-selectors/)
+6. [Mini Project](/06-mini-project/)
