@@ -53,7 +53,21 @@ left:20px;
 bottom:20px;
 }
 ```
--20 pixels left of the parent and 20 pixels from bottom of the parent.
+- 20 pixels left of the parent and 20 pixels from bottom of the parent.
 
 5.**Sticky**- A mixture of static and fixed.
+
+#### Pseudo Classes and Elements
+- Pseudo classes and elements are both kind of special keywords that we can use in CSS and add to selectors so that we can target particular elements when they are in a particular state. 
+- Ex- When we hover over an element or when a form field is in focus or when an element is the first child of the parent element.
+**Syntax** for pseudo class
+:hover
+:focus
+:first-child
+**Syntax** for pseudo element
+::after
+::before
+::selection
+- Pseudo elements allows to inject dynamic content
+
 
