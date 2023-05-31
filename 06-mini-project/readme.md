@@ -70,4 +70,16 @@ bottom:20px;
 ::selection
 - Pseudo elements allows to inject dynamic content
 
+## Introduction to Media Queries
+- Making the webpage more responsive, i.e making it look good on all devices regardless of the width of the viewport, whether it is a mobile, a tablet or a desktop.
 
+#### Responsive Design
+
+**Media Queries**
+- Tell the browser how to style an element at particular viewport dimensions.
+
+**Viewport Meta Tag**
+- Tells the browser what width the viewport should be.
+
+**Responsive Images**
+- Only load small images for mobile devices.
